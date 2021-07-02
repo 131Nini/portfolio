@@ -1,0 +1,80 @@
+body {
+    text-align: center;
+    margin: 0;
+   }
+
+
+
+#Logo {
+    width: 700px;
+    height: 550px;
+}
+
+.hanbin {
+    width: 390px;
+    height: 400px;
+}
+
+.jennie {
+    width: 390px;
+    height: 400px;
+}
+
+.yeonjun {
+    width: 390px;
+    height: 400px;
+}
+
+.hyujin {
+    width: 390px;
+    height: 400px;
+}
+
+.haruto {
+    width: 390px;
+    height: 400px;
+}
+
+.jay {
+    width: 390px;
+    height: 400px;
+}
+
+#myCarousel {
+    background-color: plum;
+}
+
+.menu {
+    list-style: none;
+    font-family: 'Yellowtail', cursive;
+    position: absolute;
+    top: 0px;
+    right: 50px;
+    z-index: 10;
+    cursor: pointer;
+
+}
+
+.links {
+    color: darksalmon;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    padding-right: 25px;
+    float: left;
+
+}
+
+.links:hover {
+    background-color: deeppink;
+}
+
+
+a{
+    text-decoration: underline;
+}
+.article:hover{
+    color: chartreuse;
+}
+
+
